@@ -22,8 +22,6 @@
 
 [<img align="left" alt="JeevanShetty | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JeevanShetty | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JeevanShetty | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/KyberRodid
-[instagram]: https://www.instagram.com/btwitz.mee/
 [linkedin]: https://linkedin.com/in/jeevanshetty11/
