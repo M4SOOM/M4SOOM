@@ -18,6 +18,13 @@
 - <b>Python</b>
   - [DiscordKeylogger](https://github.com/M4SOOM/DiscordKeyLogger)
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+<br/
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JeevanShetty | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
