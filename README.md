@@ -11,8 +11,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JeevanShetty | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JeevanShetty | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![linkedin](https://linkedin-github-readme.onrender.com/api/render/Jeevan%20Shetty/CyberSec%20/Intern/Bachelors/dark/https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD5603AQHHtaGCrERBvw%2Fprofile-displayphoto-shrink_800_800%2F0%2F1673669968875%3Fe%3D1709164800%26v%3Dbeta%26t%3DmvdGZDdVbP1i9rAEz9j5q2yqdTu-5qUhKDU7iDSgkXM)](https://www.linkedin.com/in/jeevanshetty11/)
 
-[twitter]: https://twitter.com/KyberRodid
-[linkedin]: https://linkedin.com/in/jeevanshetty11/
+
