@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=0BF700&lines=a.k.a+M4s00m)](https://git.io/typing-svg)
 
-
-RED TEAM ENTHUSIAST & Pentester
--Currently completing the Jr. Penetration Tester
+<h3>Red Team Enthusiast & Pentester</h3>    
+   - Currently completing the Jr. Penetration Tester  
+<h4>-Currently </h4>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/M4s00m.png" alt="TryHackMe">
 - <b>Python</b>
