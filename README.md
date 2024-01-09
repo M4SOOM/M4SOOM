@@ -16,6 +16,6 @@
 
 <h2> Connect with me</h2>
 
-[![linkedin](https://linkedin-github-readme.onrender.com/api/render/Jeevan%20Shetty/CyberSec/Intern/Bachelors%20in%20CTIS/dark/https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD5603AQHHtaGCrERBvw%2Fprofile-displayphoto-shrink_800_800%2F0%2F1673669968875%3Fe%3D1709164800%26v%3Dbeta%26t%3DmvdGZDdVbP1i9rAEz9j5q2yqdTu-5qUhKDU7iDSgkXM)](https://www.linkedin.com/in/jeevanshetty11/)
+[![linkedin](https://linkedin-github-readme.onrender.com/api/render/Jeevan%20Shetty/CyberSec/Intern/Bachelors%20in%20CyberSec/dark/https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD5603AQHHtaGCrERBvw%2Fprofile-displayphoto-shrink_800_800%2F0%2F1673669968875%3Fe%3D1710374400%26v%3Dbeta%26t%3DmP3QbXjeGUFnJ83om1R2J9n6XzhQSgoKYB64fAnpCO8)](https://www.linkedin.com/in/jeevanshetty11/)
 
 
