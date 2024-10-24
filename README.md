@@ -1,23 +1,9 @@
-<h1>Hi, I'm Jeevan Shetty! <br/>
+![Markdown Profiles Preview](https://i.postimg.cc/4yKy9w79/Linkedin-Banner-1.png)
+
+<h1>Hi, I'm M4SOOM! <br/>
    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=0BF700&lines=a.k.a+M4s00m)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=0BF700&lines=Cybersecurity+Professional)](https://git.io/typing-svg)
+## About Me
+A guy who's deeply driven by the challenge of securing information systems and maintaining their integrity. My academic journey laid the groundwork with key principles in Cybersecurity, Network Security, and Ethical Hacking, but it was hands-on experience in Vulnerability Assessment, Penetration Testing (VAPT), Threat Hunting, and SIEM that sparked my realization: Offensive Cybersecurity is where strategy meets impact. I’m always excited to keep evolving, being one step ahead of the threats.
 
-<h3>Red Team Enthusiast & Pentester</h3>    
-   - Currently completing the Jr. Penetration Tester  
-
-<b>Python</b>
-  - [DiscordKeylogger](https://github.com/M4SOOM/DiscordKeyLogger)
- 
-
-- <b>Python</b>
-  - [DiscordKeylogger](https://github.com/M4SOOM/DiscordKeyLogger)
-
-
-
-<h2> Connect with me</h2>
-
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)[https://www.linkedin.com/in/jeevanshetty11/]
-
-
-
+[![Markdown Profiles Preview](public/img/pagepreview.png)](https://markdownprofile.com/)
