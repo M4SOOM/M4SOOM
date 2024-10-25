@@ -4,6 +4,16 @@
    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=0BF700&lines=Cybersecurity+Professional)](https://git.io/typing-svg)
 ## About Me
-A guy who's deeply driven by the challenge of securing information systems and maintaining their integrity. My academic journey laid the groundwork with key principles in Cybersecurity, Network Security, and Ethical Hacking, but it was hands-on experience in Vulnerability Assessment, Penetration Testing (VAPT), Threat Hunting, and SIEM that sparked my realization: Offensive Cybersecurity is where strategy meets impact. I’m always excited to keep evolving, being one step ahead of the threats.
+<table>
+<tr>
+<td>
+  A guy who's Deeply Driven by the Challenge of Securing Information Systems and maintaining their Integrity. My Academic Journey laid the Groundwork with Key Principles in Cybersecurity, Network Security, and Ethical Hacking, but it was hands-on experience in Vulnerability Assessment, Penetration Testing (VAPT), Threat Hunting, and SIEM Tools that sparked my realization: "Offensive Cybersecurity" is where Strategy meets Impact. I’m always excited to keep evolving, being one step ahead of the threats.
+</td>
+</tr>
+</table>
 
-[![Markdown Profiles Preview](public/img/pagepreview.png)](https://markdownprofile.com/)
+## Built With
+
+This section outlines the key technologies and tools I’ve utilized so far :
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gcp,azure,kali,linux,ubuntu,powershell,py,vmwareworkstation,jira,visualstudio&theme=light)
