@@ -18,7 +18,10 @@ This section outlines the key technologies and tools I’ve utilized so far :
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gcp,azure,kali,linux,ubuntu,powershell,py,vmwareworkstation,jira,visualstudio&theme=light)
 
-## Previous Experience :
+## Previous Experience
 
-This section highlights my past experience in cybersecurity operations :
+This section highlights my past experience in Cybersecurity Operation(s) **(click to view experience)**:
 
+1. [SOC Analyst - CyberMSI](https://github.com/your-username/repository-name) 
+
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.png)](http://forthebadge.com) 
