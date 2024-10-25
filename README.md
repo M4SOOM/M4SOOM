@@ -1,6 +1,6 @@
 ![Markdown Profiles Preview](https://i.postimg.cc/4yKy9w79/Linkedin-Banner-1.png)
 
-<h1>Hi, I'm M4SOOM! <br/>
+<h1>Hi, I'm M4SOOM! <br/>  <a href="https://github.com/L1QU3D/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=M4SOOM" align="right"></a>
    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=0BF700&lines=Cybersecurity+Professional)](https://git.io/typing-svg)
 ## About Me
@@ -12,8 +12,16 @@
 </tr>
 </table>
 
-## Built With
+## Tools
 
 This section outlines the key technologies and tools I’ve utilized so far :
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gcp,azure,kali,linux,ubuntu,powershell,py,vmwareworkstation,jira,visualstudio&theme=light)
+
+## Certifications
+
+This section outlines the key technologies and tools I’ve utilized so far :
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gcp,azure,kali,linux,ubuntu,powershell,py,vmwareworkstation,jira,visualstudio&theme=light)
+
+
