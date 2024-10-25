@@ -25,7 +25,7 @@ This section highlights my past experience in cybersecurity operations :
 <table>
 <tr>
 <td>
-1. ㅤCyber Managed Services Inc. (CyberMSI) - Sep 2024 - Present ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img src="https://i.postimg.cc/wB10vRgb/cybermsi-logo.jpg" align="right" alt="CyberMSI" width="150" height="150">
+1. ㅤCyber Managed Services Inc. (CyberMSI) - Sep 2024 - Present ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img src="https://i.postimg.cc/wB10vRgb/cybermsi-logo.jpg" align="right" alt="CyberMSI" width="150" height="150">
 </td>
 </tr>
 </table>
