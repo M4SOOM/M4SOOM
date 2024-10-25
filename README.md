@@ -18,10 +18,16 @@ This section outlines the key technologies and tools I’ve utilized so far :
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gcp,azure,kali,linux,ubuntu,powershell,py,vmwareworkstation,jira,visualstudio&theme=light)
 
-## Certifications
+## Previous Experience :
 
-This section outlines the key technologies and tools I’ve utilized so far :
+This section highlights my past experience in cybersecurity operations :
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gcp,azure,kali,linux,ubuntu,powershell,py,vmwareworkstation,jira,visualstudio&theme=light)
+<table>
+<tr>
+<td>
+1. ㅤCyber Managed Services Inc. (CyberMSI) - Sep 2024 - Present ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img src="https://i.postimg.cc/wB10vRgb/cybermsi-logo.jpg" align="right" alt="CyberMSI" width="150" height="150">
+</td>
+</tr>
+</table>
 
 
