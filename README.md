@@ -22,6 +22,7 @@ This section outlines the key technologies and tools I’ve utilized so far :
 
 This section highlights my past experience in Cybersecurity Operation(s) **(click to view experience)**:
 
-1. [SOC Analyst - CyberMSI](https://github.com/M4SOOM/MyExperience/blob/main/CyberMSI.md) 
+1. [SOC Analyst - CyberMSI](https://github.com/M4SOOM/MyExperience/blob/main/CyberMSI.md)
+2. [Splunk (Advanced)](https://github.com/M4SOOM) 
 
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.png)](http://forthebadge.com) 
