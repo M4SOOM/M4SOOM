@@ -16,7 +16,7 @@
 
 This section outlines the key technologies and tools I’ve utilized so far :
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gcp,azure,kali,linux,ubuntu,powershell,py,vmwareworkstation,jira,visualstudio&theme=light)![Dashboard Icon](https://github.com/MasoomEXE/Test1/blob/main/icons8-splunk-48.svg)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gcp,azure,kali,linux,ubuntu,powershell,py,vmwareworkstation,jira,visualstudio&theme=light)  ![Dashboard Icon](https://github.com/M4SOOM/MyExperience/blob/main/Icons/splunk.svg)
 
 ## Previous Experience
 
