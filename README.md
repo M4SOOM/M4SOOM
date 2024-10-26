@@ -24,7 +24,7 @@ This section highlights my past experience in Cybersecurity Operation(s) **(clic
 
 1. [SOC Analyst - CyberMSI](https://github.com/M4SOOM/MyExperience/blob/main/CyberMSI.md)
 2. [Splunk (Advanced)](https://github.com/M4SOOM)
-3. [TryHackMe)](https://github.com/M4SOOM) 
+3. [TryHackMe](https://github.com/M4SOOM) 
 
 ## Certifications
 
