@@ -30,7 +30,7 @@ This section highlights my past experience in Cybersecurity Operation(s) **(clic
 This section has the certifications i cleared yet so far :
 
 1. [EHE - Ethical Hacking Essentials](https://github.com/M4SOOM/MyExperience/blob/main/CyberMSI.md)
-2. [Google Cybersecurity Professional)](https://github.com/M4SOOM) 
+2. [Google Cybersecurity Professional](https://github.com/M4SOOM) 
 
 <br/> 
 
