@@ -7,7 +7,7 @@
 <table>
 <tr>
 <td>
-  A guy who's Deeply Driven by the Challenge of Securing Information Systems and maintaining their Integrity. My Academic Journey laid the Groundwork with Key Principles in Cybersecurity, Network Security, and Ethical Hacking, but it was hands-on experience in Vulnerability Assessment, Penetration Testing (VAPT), Threat Hunting, and SIEM Tools that sparked my realization: "Offensive Cybersecurity" is where Strategy meets Impact. I’m always excited to keep evolving, being one step ahead of the threats.
+  M4SOOM is someone who's Deeply Driven by the Challenge of Securing Information Systems and maintaining their Integrity. My Academic Journey laid the Groundwork with Key Principles in Cybersecurity, Network Security, and Ethical Hacking, but it was hands-on experience in Vulnerability Assessment, Penetration Testing (VAPT), Threat Hunting, and SIEM Tools that sparked my realization: "Offensive Cybersecurity" is where Strategy meets Impact. I’m always excited to keep evolving, being one step ahead of the threats.
 </td>
 </tr>
 </table>
