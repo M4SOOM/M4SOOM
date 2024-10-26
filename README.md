@@ -25,6 +25,13 @@ This section highlights my past experience in Cybersecurity Operation(s) **(clic
 1. [SOC Analyst - CyberMSI](https://github.com/M4SOOM/MyExperience/blob/main/CyberMSI.md)
 2. [Splunk (Advanced)](https://github.com/M4SOOM) 
 
+## Certifications
+
+This section has the certifications i cleared yet so far :
+
+1. [EHE - Ethical Hacking Essentials](https://github.com/M4SOOM/MyExperience/blob/main/CyberMSI.md)
+2. [Google Cybersecurity Professional)](https://github.com/M4SOOM) 
+
 <br/> 
 
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.png)](http://forthebadge.com) 
