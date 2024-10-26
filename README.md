@@ -22,6 +22,6 @@ This section outlines the key technologies and tools I’ve utilized so far :
 
 This section highlights my past experience in Cybersecurity Operation(s) **(click to view experience)**:
 
-1. [SOC Analyst - CyberMSI](CyberMSI.md) 
+1. [SOC Analyst - CyberMSI](MyExperience/CyberMSI.md) 
 
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.png)](http://forthebadge.com) 
