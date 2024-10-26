@@ -16,7 +16,7 @@
 
 This section outlines the key technologies and tools I’ve utilized so far :
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gcp,azure,kali,linux,ubuntu,powershell,vmwareworkstation,jira,visualstudio&theme=light)   ![Dashboard Icon](https://github.com/M4SOOM/MyExperience/blob/main/Icons/splunk.svg)<img src="https://github.com/MasoomEXE/Test1/blob/main/Azure-Sentinel.svg" alt="Dashboard Icon" width="48" height="48">
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gcp,azure,kali,linux,ubuntu,powershell,vmwareworkstation,jira,visualstudio&theme=light)   ![Dashboard Icon](https://github.com/M4SOOM/MyExperience/blob/main/Icons/splunk.svg)<img src="https://github.com/MasoomEXE/Test1/blob/main/Azure-Sentinel.svg" alt="Dashboard Icon" width="48" height="48"><img src="https://github.com/M4SOOM/MyExperience/blob/main/Icons/XDR-icon.svg">
 
 ## Previous Experience
 
