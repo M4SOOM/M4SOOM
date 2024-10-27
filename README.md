@@ -35,4 +35,4 @@ This section has the certifications i cleared yet so far :
 
 <br/> 
 
-[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.png)](http://forthebadge.com) 
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.png)](http://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/i-fucking-hate-java.svg)](https://forthebadge.com)
