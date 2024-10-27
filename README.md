@@ -36,6 +36,11 @@ This section has the certifications i cleared yet so far :
 
 ## Connect With Me
 
+<a href="https://tryhackme.com/r/p/M4s00m" target="_blank">
+  <img src="https://github.com/MasoomEXE/Experience/blob/main/THM.gif" width="50" height="50" alt="TryHackMe Icon">
+</a>
+
+
 [![TryHackMe Icon](https://github.com/MasoomEXE/Experience/blob/main/THM.gif)](https://tryhackme.com/r/p/M4s00m)
 
 [![Dashboard Icon](https://github.com/M4SOOM/MyExperience/blob/main/Icons/discord.svg)](https://discord.com/users/584753556884684811)
