@@ -33,10 +33,11 @@ This section has the certifications i cleared yet so far :
 1. [EHE - Ethical Hacking Essentials](https://github.com/M4SOOM/MyExperience/blob/main/CyberMSI.md)
 2. [Google Cybersecurity Professional](https://github.com/M4SOOM) 
 
-<br/> 
 
 ## Connect With Me
 
 [![Dashboard Icon](https://github.com/M4SOOM/MyExperience/blob/main/Icons/discord.svg)](https://discord.com/users/YOUR_DISCORD_USER_ID)
+
+</br>
 
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.png)](http://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/i-fucking-hate-java.svg)](https://forthebadge.com)
