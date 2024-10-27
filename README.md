@@ -36,7 +36,7 @@ This section has the certifications i cleared yet so far :
 
 ## Connect With Me
 
-[![Dashboard Icon](https://github.com/M4SOOM/MyExperience/blob/main/Icons/discord.svg)](https://discord.com/users/YOUR_DISCORD_USER_ID)
+[![Dashboard Icon](https://github.com/M4SOOM/MyExperience/blob/main/Icons/discord.svg)](https://discord.com/users/584753556884684811)
 
 </br>
 
