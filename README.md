@@ -32,7 +32,8 @@ This section has the certifications i cleared yet so far :
 
 1. [CCA - Cisco CyberOps Associate](https://github.com/M4SOOM)
 2. [EHE - Ethical Hacking Essentials](https://github.com/M4SOOM)
-3. [Google Cybersecurity Professional](https://github.com/M4SOOM) 
+3. [Google Cybersecurity Professional](https://github.com/M4SOOM)
+4. Other Certificates - [Here](https://github.com/M4SOOM) 
 
 
 ## Add Me - TryHackMe Profile
