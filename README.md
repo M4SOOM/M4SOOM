@@ -1,6 +1,6 @@
 ![Markdown Profiles Preview](https://i.postimg.cc/4yKy9w79/Linkedin-Banner-1.png)
 <a href="https://github.com/L1QU3D/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=M4SOOM" align="right"></a>
-<h1>Hi, I'm M4SOOM!
+<h1>Hi, I'm Jeevan Shetty!
    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=0BF700&lines=Cybersecurity+Professional)](https://git.io/typing-svg)
 ## About Me
