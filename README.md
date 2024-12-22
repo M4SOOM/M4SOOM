@@ -38,10 +38,7 @@ This section has the certifications i cleared yet so far :
 
 ## Add Me - TryHackMe Profile
 
-<a href="https://tryhackme.com/r/p/M4s00m" target="_blank">
-  <img src="https://github.com/M4SOOM/MyExperience/blob/main/Images/THM%20(1).gif" width="875" height="200" alt="TryHackMe Icon">
-</a>
-
+[![TryHackMe Icon](https://github.com/M4SOOM/MyExperience/blob/main/Images/THM.gif)](https://tryhackme.com/r/p/M4s00m)
 
 </br>
 
